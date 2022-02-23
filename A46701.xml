@@ -1,0 +1,154 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter from an ignoramus to his correspondent, December 6th, 1682</title>
+            <author>W. J.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1682</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A46701</idno>
+            <idno type="STC">Wing J51</idno>
+            <idno type="STC">ESTC R1517</idno>
+            <idno type="EEBO-CITATION">13069401</idno>
+            <idno type="OCLC">ocm 13069401</idno>
+            <idno type="VID">97101</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A46701)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 97101)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 742:41)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter from an ignoramus to his correspondent, December 6th, 1682</title>
+                  <author>W. J.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Richard Janeway ...,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1682]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title; imprint from colophon.</note>
+                  <note>Signed: W.J.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Wilmer, John.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:97101:1" rendition="simple:additions"/>
+            <head>A LETTER FROM AN IGNORAMUS TO HIS CORRESPONDENT.</head>
+            <opener>
+               <dateline>
+                  <date>
+                     <hi>December</hi> 6th. 1682.</date>
+               </dateline>
+               <salute>Honoured Sir!</salute>
+            </opener>
+            <p>I Make no doubt, but you have the News of the Commitment of Mr. <hi>John Wilmer,</hi> Citizen and Common-Council-man of <hi>London,</hi> to the <hi>Tower,</hi> among others; and no leſs Crime laid to his charge than High Treaſon, for conſpiring the Death of the King, and to deprive him of his Imperial Crown and Dignity, which are the Words ſpecified in the Warrant di<g ref="char:EOLhyphen"/>rected to the Lieutenant of the Tower; where he was confined cloſe for near ſix weeks, and ſuffered not to ſee or ſpeak to any Friend or Relation, other than his Wife; who with great Labour and Trouble obtained the favour to be confined with him. After the time aboveſaid, by Friends Liberty was obtain'd for him to walk in the Tower for his Healths ſake; and in that ſtate he was farther a Priſoner nine weeks odd days, which makes in all fifteen weeks; during which time he was not permitted the uſe of Pen, Ink, or Paper: at the end of which, he with others was by <hi>Habeas Corpus</hi> carried up to the Kings Bench, and there was admitted to Bail, to appear the next Term; his Bail and himſelf entering into a Recognizance of 9000<abbr>l.</abbr> In all this time there hath not been the leaſt Pro<g ref="char:EOLhyphen"/>ſecution, neither ſaw he, or knows any perſon that hath ſworn againſt him. The day he was taken up, he had a violent Ague and Fever upon him, which ſeized him near a week before; but on the day of his caption, a <hi>vehement vomiting and looſneſs</hi> alſo ſeized him to ſuch a degree, that his Apothecary and Friends about him, did diſpond of his Life. In this Condition he had notice, near an hour before the Meſſengers came to his houſe, that they were waiting for him; ſo that with help of Friends, he got on his Cloaths, and his Vomiting and Looſneſs left him; yet ſo weak, that his Friends concluded him in great Danger of his Life, as he was; but if the Meſſengers removed him, they concluded it would certainly de<g ref="char:EOLhyphen"/>ſtroy him. And notwithſtanding his Apothecary would have made Qath of this before a Magiſtrate; yet nothing would avail, but away they hurried him into a Coach near <hi>Charing-Croſs,</hi> to the Meſſengers houſe, one Mr. <hi>Atterbury</hi>'s, where
+<pb n="2" facs="tcp:97101:2"/>
+he was kept from that afternoon (which was <hi>Saturday</hi>) until <hi>Monday</hi> morn<g ref="char:EOLhyphen"/>ing; and then was hurried to <hi>Hampton-Court,</hi> where the Council ſate; and without ſeeing the face of any Accuſer, was by Warrant from the Council, committed to the Tower, where he lay as aboveſaid; and notwithſtanding his ilneſs, could not be admitted in fourteen days time after, in the Tower, to have either Doctor or Apothecary to come to him; but God who is always good, was very Gra<g ref="char:EOLhyphen"/>cious to him, and was better than all Means and Helps; for he healed him, and helped him up, even to a Miracle.</p>
+            <p>Thus have I given you in brief, the ſtate of his Caſe hitherto; now it's poſſible, being at this diſtance, you may be deſirous to know the Reaſon of this Impriſonment; for the old Proverb is, There is no ſmoke, but there is ſome fire; but I may truly ſay, this Proverb doth not always hold true; I am ſure it doth not in his Caſe, as I have often heard him ſay, and will be proved as far as Negatives can prove it, if ever it comes to that. I ſhall as briefly as I can, give you the Conjectures of the Town, both as to his Confinement, and the reſt of the <hi>Proteſtants.</hi> A more certain account you may expect, when we have a Parliament, and not until then; and when that will be, God and the King only knoweth.</p>
+            <p>The Common Enemy to all <hi>Proteſtants</hi> (the <hi>Papiſts</hi>) you know, are always at work to bring about our Ruine and Confuſion; and they have ever ſince the Reformation been contriving of it; but God hath hitherto diſappointed them, and I truſt he will ſtill. But ſince the plain Diſcovery of their General Plot in 1678. which hath been owned by the King, and four ſucceſſive Parliaments, and ſo many of the Party taken into Cuſtody, and ſome executed, and moſt of the reſt being by the Parliament looked upon as Confederates with them: They look<g ref="char:EOLhyphen"/>ed upon themſelves as quite loſt; and the moſt favour they could expect, was to have Liberty to ſtay here with the loſs of their Eſtates; and ſome of the chief Heads of them to ſuffer as Traytors, and ſo be utterly incapacitated to diſturb the Government any more. But the Jeſuits their chief Councellors and Polititians, were loth to give up ſo fair a Game; therefore preſently they ſet their Wits to work to prevent the further Diſcovery of this their Real Plot, by forging Sham-Plots; of which by their means, and the Devils helping of them, we have had of one kind or another, I think, no leſs than a dozen; and I think this their laſt was more dangerous to us of this Nation, than all the reſt; and I take this laſt to be thus: That their Deſign was laid two ways, that either might ſerve their turn. The Plot by them laid, was to be a <hi>Proteſtant Plot;</hi> and the perſons to carry it on, and be engaged in it, was this City, and the laſt Houſe of Commons at <hi>Oxford.</hi> The matter to be ſworn what theſe were engaged to do, was, That if the King would not paſs ſuch Acts as they would have him, then that they ſhould ſeize up<g ref="char:EOLhyphen"/>on his Perſon, and keep him in Cuſtody until ſuch time as he ſhould do it. The Witneſſes to prove this plot, are ſome of the ſame, both <hi>Engliſh</hi> and <hi>Iriſh,</hi> that proved the <hi>Popiſh Plot;</hi> which by their great poverty with frowns here, and not ſeeing any likelihood of a Parliament, have by the working of the Jeſuits, and their Friends, been ſuborned to retract their Evidence of the <hi>Popiſh Plot,</hi> and to ſwear this <hi>Proteſtant Plot;</hi> which if it took effect, they doubted not, but at leaſt to gain an Act of Oblivion, if it did not gain their firſt purpoſe, even to do all their Work. Now they bring their Plot on the Stage, and firſt ſwear againſt my Lord <hi>Howard</hi> of <hi>Eſcrieck,</hi> and he is committed to the Tower; the next againſt my Lord <hi>Shaftsbury,</hi> as the head of the Party; then againſt one <hi>Stephen Colledge;</hi> after him, <hi>John Rowſe</hi> and <hi>Edward Whitaker;</hi> all theſe were committed to the Tower.</p>
+            <p>It was now time to begin Proſecution of ſome of theſe, to ſee what Execu<g ref="char:EOLhyphen"/>tion that would do, before any further Attempt ſhould be made in taking up more. The firſt they begun with, was my Lord <hi>Howard</hi> of <hi>Eſcrick,</hi> and preferred an In<g ref="char:EOLhyphen"/>dictment againſt him before a Grand Jury of <hi>Middleſex,</hi> the Jury conſiſting of nineteen; the Witneſſes to ſwear againſt him, were Mrs. <hi>Fitzharris,</hi> the Wife of <hi>Edward Fitzharris,</hi> (a grand <hi>Iriſh Papiſt,</hi> and then under Condemnation for High Treaſon) and Mrs. <hi>Fitzharris</hi> her Maid, or Strumpet, going by the name of <hi>Terreſia Peacock.</hi> Theſe ſwore, as I am informed, much to the heads as above.</p>
+            <p>
+               <pb n="3" facs="tcp:97101:2"/>There were brought in to gloſe the buſineſs, two perſons more; but they ſwore nothing of ſignificancy; but upon the croſs interrogating them, the Jury found out the falſity of their Teſtimony; ſo that upon their Debates, fifteen of the nine<g ref="char:EOLhyphen"/>teen were for bringing in the Bill <hi>Ignoramus.</hi> But in regard the Foreman, Sir <hi>Charles Lee,</hi> with the other, did not agree, they deferred the further Debate of it until the morrow, when they were to give in their Bills and Preſentments to the Kings Bench, being the laſt day of the Term; but the Clerk, that attended them with ſome others, got the Bill away before it was ſigned and made a Record, that the morrow the Jury could not have it; whereupon they made their Complaints to the Judges, and gave in their verbal Judgment of the ſaid Indictment to be <hi>Ignoramus,</hi> and deſired it might be recorded; ſo was an end of that Term, and no further proſecution againſt my Lord <hi>Howard</hi> then, nor ſince.</p>
+            <p>The next attempt was againſt <hi>Stephen Colledge,</hi> called the <hi>Proteſtant Joyner;</hi> by preferring a Bill of Indictment againſt him for a Plot, and High Treaſon, as in manner aforeſaid, at the General Quarter Seſſions of Peace and Goal-de<g ref="char:EOLhyphen"/>livery for <hi>London</hi> and <hi>Middleſex,</hi> at the Old Baily. The ſaid Bill being preſented to the Grand Jury for the City, where were nineteen perſons, whereof <hi>John Wilmer</hi> was Foreman: to this Indictment there comes a great number of Wit<g ref="char:EOLhyphen"/>neſſes, at leaſt ſix, and theſe muſt give their teſtimony in open Court; and it's believed the Deſign was thereby to awe the Jury, and if poſſible, to lay on them a neceſſity to find the Bill; in regard the number of Witneſſes was great, and the things they ſwore were ſo dreadful to moſt of the Auditors, that it was feared they would have ſworn the houſe upon our heads. But after the Jury had heard them in Court, and went into their Chamber and called in the Wit<g ref="char:EOLhyphen"/>neſſes one by one, and croſs examined them, they had ſuch ſufficient ſatisfaction, that upon the <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the whole nineteen agreed in Judgment to bring in the Bill <hi>Ignoramus.</hi>
+            </p>
+            <p>This greatly madded the Popiſh party and the Witneſſes, or ſome of their Gang<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, to make the Foreman amends for his former kindneſs to them, and to ſtop the publiſhing at <hi>Oxford</hi> his knowledg of them, and of their Deſign, which they acquainted him with; and in revenge for his being an <hi>Ignoramus</hi>-man, as the <hi>Papiſts</hi> call him, and all the reſt of the Jurors, they now ſwear Treaſon againſt him, whereby he is committed to the Tower, and lyeth as aforeſaid, ſo that he is prevented from further doing them miſchief in hindring them from going on in their Deſign. Afterwards they go down to <hi>Oxford,</hi> where a Jury is pitched upon to find the ſecond Bill againſt <hi>Colledge,</hi> for words, but not a Plot. For your full information in that Affair, I refer you to <hi>Colledg's</hi> Tryal. Since his death, hath a Bill been preferred at the Old Baily, againſt <hi>John Rowſe,</hi> who they would pretend was to be a kind of Paymaſter in this <hi>Proteſtant Plot;</hi> but this <hi>Rowſe,</hi> though it may be an honeſt man, is a perſon of mean account for ſo great a Character as that. Many Witneſſes ſwore againſt him, I think about eight, and were all examined in open Court, and croſs-examined there alſo, a thing not known in our days, and believe are few preſidents of like nature in former Ages; but upon the whole, the Jury acquitted themſelves to their own ſatisfaction, as to bring in the Bill <hi>Ignoramus,</hi> which was alſo to the ſatisfaction of the greateſt part of the Court; ſo <hi>Rowſe</hi> upon the laſt day of the Seſſions, was admitted to bail, and diſcharged the next. The Foreman of this Jury, was Deputy  <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap>  
+               <hi>Denew.</hi> Now the next, a Bill of Indictment was preſented againſt my Lord <hi>Shafts<g ref="char:EOLhyphen"/>bury</hi> upon a ſpecial Commiſſion to the City and County, and brought in before the Grand Jury for the aforeſaid City, where were about ſuch a parcel of Witneſſes as againſt <hi>Rowſe;</hi> and were all examined, and croſs-examined in open Court. The Jury were of the moſt eminent Citizens of <hi>London;</hi> four of them were members in the laſt Parliament: the Foreman was Sir <hi>Samuel Barnadiſton,</hi> Knight; and this Bill alſo was brought in <hi>Ignoramus;</hi> and for your further ſatisfaction why they did ſo in this matter, I refer you to the printed Narrative of the Examination of the Witneſſes by the Jury, which I doubt not, but you have ſeen. And thus far have the <hi>Papiſts</hi> laboured to beget a <hi>Proteſtant Plot,</hi> had the firſt or ſecond Jury found the Bill, ſo that the Witneſſes had been paſſed for <hi>Boni &amp; Legales Homines,</hi>
+               <pb n="4" facs="tcp:97101:3"/>
+God knows where it had ſtopped; but now as they have failed in a <hi>Proteſtant Plot,</hi> they hope they have gained the other point of Shamming the <hi>Popiſh Plot,</hi> by in<g ref="char:EOLhyphen"/>validating the teſtimony of ſo many Witneſſes as ſwore the <hi>Popiſh Plot,</hi> before we believed them; now to ſwear a <hi>Proteſtant</hi> one, without being believed. By which means they hope neither theſe, nor any of the reſt as have ſwore a <hi>Popiſh Plot,</hi> ſhould be credited againſt them, ſeeing we will not believe a Plot contrived by our ſelves againſt our ſelves, and know not of our ſelves; and the Papiſts, our dear friends, were ſo kind to find it out for us; ſo that now we muſt leave the further Examination of both one and the other, to a Parliament; and the Papiſts hope they have ſo ordered Matters, as not to need to fear a Parliament for ſome time; but now having failed in their Proteſtant Plot, to go to their old Game again, and find out ſome other trick to do the Feat with; and moſt thinking men are of the Judgment, their next work (ſeeing their Shams will not do) will be to ſet the <hi>Proteſtants</hi> together by the ears among themſelves, Conformiſt againſt Noncon<g ref="char:EOLhyphen"/>formiſt, like two Dogs fighting for a bone, that we may be weakned thereby, and then they to ſtrike in on one ſide, and deſtroy us at once by the help and aſſiſtance of the <hi>French</hi> King; who only waiteth for, and wanteth ſuch an opportunity. But I hope God will give us more Chriſtian Wiſdom, than to expoſe our ſelves to the mercy of the <hi>French,</hi> though the Moſt Chriſtian King; and for all the tugging and ſtrugling of the Papiſts, to keep off the day of Judgment, as they look upon a Parliament to be. God can incline the heart of the King to call one ſooner than they may deſire. Thus, as brief as I can, I have given you the ſum and ſubſtance of our Friend's being in the Tower, and the Worlds Reaſons for it; and I believe, for matter of Fact, it is very near the truth. God ſend my next may bring you the Good News of our King and his Parliament meeting lovingly to<g ref="char:EOLhyphen"/>gether, that all Faults may be mended, and the Nation happily ſetled, is the hearty deſire of him that truly loves his King and Country, and as far as ſhall conſiſt with their welfare, is Yours to command,</p>
+            <closer>
+               <signed>W. J.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>LONDON: <hi>Printed for</hi> Richard Janeway <hi>in</hi> Queens-head-Alley <hi>in</hi> Pater-noſter-Row. <hi>1682.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
